@@ -1,0 +1,6 @@
+abbreviation,expression abbreviated
+entity,organ,color,invention,currency,disease,event,food,instrument,language,letter,entity,plant,product,religion,sport,element,symbols,techniques,equivalent,vehicle,word,book,substance,sign,method,body,animal
+description,manner,reason,action,definition,abstract
+human,individual,title,organization,persons,group
+location,country,mountain,location,state,city,place
+number,numeric,area,code,date,distance,fraction,measure,order,percent,price,rank,size,speed,temperature,time,volume,weight,value,money,count
