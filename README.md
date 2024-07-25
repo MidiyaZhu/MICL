@@ -30,7 +30,7 @@ run llama_logits_labelselection_system_method2.py
 run llama_logits_labelselection_system_method2_order.py
 
 8. evaluation:
-run llama3_logits_labelselection_result_micl
+run llama3_logits_labelselection_result_micl.py
 
 
 sota:
