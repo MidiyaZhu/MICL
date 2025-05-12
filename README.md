@@ -1,4 +1,4 @@
-# LICL
+# Logit Separability-Driven Samples and Multiple Class-Related Words Selection for Advancing In-Context Learning
 
 After preparing the training, validation, and testing datasets with the verbalizer, you can find them in the `data` folder or build your own datasets. Please apply for AMAN dataset usage approval before testing on it.
 
@@ -116,12 +116,3 @@ If you use this work, please cite our paper (Accepted at **NAACL 2025 Main**):
 }
 ```
 
-or
-
-```bibtex
-@article{zixiao2024logit,
-  title={Logit Separability-Driven Samples and Multiple Class-Related Words Selection for Advancing In-Context Learning},
-  author={Zixiao, Zhu and Zijian, Feng and Hanzhang, Zhou and Junlang, Qian and Kezhi, Mao},
-  journal={arXiv preprint arXiv:2406.10908},
-  year={2024}
-}
