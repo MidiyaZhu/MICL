@@ -108,11 +108,12 @@ python llama3_logits_labelselection_result_sota_mlabel.py
 If you use this work, please cite our paper (Accepted at **NAACL 2025 Main**):
 
 ```bibtex
-@article{zixiao2024micl,
-  title={MICL: Improving In-Context Learning through Multiple-Label Words in Demonstration},
-  author={Zixiao, Zhu and Zijian, Feng and Hanzhang, Zhou and Junlang, Qian and Kezhi, Mao},
-  journal={arXiv preprint arXiv:2406.10908},
-  year={2024}
+@inproceedings{zhu2025logit,
+  title={Logit Separability-Driven Samples and Multiple Class-Related Words Selection for Advancing In-Context Learning},
+  author={Zhu, Zixiao and Feng, Zijian and Zhou, Hanzhang and Qian, Junlang and Mao, Kezhi},
+  booktitle={Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)},
+  pages={6739--6759},
+  year={2025}
 }
 ```
 
